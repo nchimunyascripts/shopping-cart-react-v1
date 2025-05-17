@@ -2,7 +2,7 @@
 
 A modern, responsive shopping cart built with **React**, **Tailwind CSS** for styling, and **React Context API** for state management.
 
-🔗 **[Live Demo](#)** (Add your demo link here)
+🔗 **[Live Demo](https://shopping-cart-react-v1.vercel.app/)** (Add your demo link here)
 
 ---
 
