@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+.venv1/
+
+# PyCharm project files
+.idea/
+
+# VSCode files (just in case)
+.vscode/
+
+# Logs
+*.log
+
+# Python environment files
+.env
+*.env
+
+# Mac and system files
+.DS_Store
+Thumbs.db
+
+# Pip metadata
+*.egg-info/
+dist/
+build/
+
+# Data/cache
+*.sqlite3
+```
+
+To use it:
+
+1. Create a file in your project root named `.gitignore` (if not already there).
+2. Paste the above content into it.
+3. Save the file.Now Git will ignore all unnecessary or auto-generated files.
+
